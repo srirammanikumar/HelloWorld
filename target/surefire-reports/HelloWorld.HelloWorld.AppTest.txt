@@ -1,10 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: HelloWorld.HelloWorld.AppTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.017 sec <<< FAILURE!
-testApp(HelloWorld.HelloWorld.AppTest)  Time elapsed: 0.013 sec  <<< FAILURE!
-junit.framework.ComparisonFailure: expected:<abc> but was:<Hello World>
-	at junit.framework.Assert.assertEquals(Assert.java:81)
-	at junit.framework.Assert.assertEquals(Assert.java:87)
-	at HelloWorld.HelloWorld.AppTest.testApp(AppTest.java:29)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 sec
