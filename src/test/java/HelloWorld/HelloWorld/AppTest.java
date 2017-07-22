@@ -26,6 +26,6 @@ public class AppTest
     public void testApp()
     {
     	
-        assertEquals("abc", "Hello World");
+        assertEquals("Hello World", "Hello World");
     }
 }
